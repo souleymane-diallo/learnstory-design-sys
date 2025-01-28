@@ -74,7 +74,6 @@
     }
   },
   "resolutions": {
-    "jackspeak": "2.1.1",
-    "@testing-library/dom": "9.0.0"
+    "jackspeak": "2.1.1"
   }
 }
